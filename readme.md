@@ -1,3 +1,3 @@
-score:0
+score:0 
 书名  |  socre | status 
-从Paxos到zookeeper        | 50      | 0  
+从Paxos到zookeeper        | 50      |  28 
